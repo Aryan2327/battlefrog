@@ -2,9 +2,6 @@
 # BattleFrog
 ## CS 110 Final Project
 ### Fall Semester, 2019
-### [Assignment Description](https://drive.google.com/open?id=1HLIk-539N9KiAAG1224NWpFyEl4RsPVBwtBZ9KbjicE)
-
-https://github.com/bucs110/final-project-fall19-frogs
 
 [Presentation slides](https://docs.google.com/presentation/d/15sG3_vJvBqHAASNPlOBuw2qSFYYH4nmcGRiFhdi21ro/edit?usp=sharing)
 
